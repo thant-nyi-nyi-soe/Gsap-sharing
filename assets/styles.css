@@ -1,0 +1,13 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.container > * {
+  margin-top: 50px;
+  height: 100px;
+  width: 100px;
+  background-color: lightpink;
+}
